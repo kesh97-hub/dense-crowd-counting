@@ -5,3 +5,5 @@
 
 
 In many real-world applications, such as event management and security surveillance, crowd counting is essential. In this project, we introduce a novel hybrid deep learning architecture that combines U-Net with Swin Transformers for dense crowd counting. Our model effectively estimates crowd density and head counts in extremely congested areas by utilizing the ability of U-Net to capture finegrained detail and the multi-scale hierarchical feature extraction capabilities of Swin Transformers. To guarantee robustness in various circumstances, we train and assess our model using a mix of popular datasets, such as ShanghaiTech, UCF-QNRF, and UCF-CC-50. Our application is made to assist public transportation authorities, law enforcement agencies, and event planners in efficiently managing and monitoring dense crowd areas.
+
+Note: Check the README.md file in the /Datasets folder to download the datasets before running the Trainer.ipynb
